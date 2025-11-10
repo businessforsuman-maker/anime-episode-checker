@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762769461904,
+      "tag": "0000_late_gauntlet",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762769501911,
+      "tag": "0001_wise_epoch",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1762769832306,
+      "tag": "0002_bouncy_payback",
+      "breakpoints": true
+    }
+  ]
+}
